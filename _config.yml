@@ -1,8 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: nmtremblay/kross-jekyll-template-nm
-
 # Build settings
 markdown: kramdown
 permalink: pretty
